@@ -8,7 +8,8 @@
 
 Dynamic Ping Pong Game is an interactive and dynamic implementation of the classic Pong game. It offers a modern twist by incorporating dynamic elements and customizable features.
 
-https://github.com/the-lasya-projects/dynamic_ping_pong_game/assets/142709321/cfba33c9-013a-4340-88a3-cb07b44feb29
+https://github.com/the-lasya-projects/dynamic_ping_pong_game/assets/142709321/612f414b-e289-4ab5-921c-d8f2dba79b12
+
 
 
 
