@@ -20,6 +20,8 @@ https://github.com/the-lasya-projects/dynamic_ping_pong_game/assets/142709321/61
 - **Customizable Appearance:** Tailor the game to your preferences with customizable themes and visual elements.
 - **Multiplayer Support:** Play against friends or AI with multiplayer support.
 - **Scalable Difficulty:** Adjust the difficulty level to match your skill or challenge yourself with increasingly difficult opponents.
+  ![WhatsApp Image 2023-11-21 at 15 28 38_95236ffb](https://github.com/the-lasya-projects/dynamic_ping_pong_game/assets/142709321/65a48e63-60f6-417c-b512-09eb6e830083)
+
 
 ## Table of Contents
 
